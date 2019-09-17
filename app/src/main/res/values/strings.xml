@@ -1,0 +1,25 @@
+<resources>
+    //APPS NAME
+    <string name="app_name">Job Runner</string>
+
+    //FOR INTRO SCREEN
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="done">DONE</string>
+    <string name="screen1_title">Create your job</string>
+    <string name="screen1_desc">Create your part time job for everyone.</string>
+    <string name="screen2_title">Choose candidate</string>
+    <string name="screen2_desc">Choose your candidate based on our filter.</string>
+    <string name="screen3_title">no_network_notificationStart working</string>
+    <string name="screen3_desc">The choosen candidate can start working.</string>
+    <string name="okay">OKAY</string>
+
+    //INTERNET CONNECTION
+    <string name="no_network_notification">Network currently not available. Please try again later</string>
+    <string name="try_again">Try Again</string>
+    <string name="exit">Exit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

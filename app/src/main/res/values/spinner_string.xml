@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_gender">
+        <item>Please choose gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="spinner_maritial_status">
+        <item>Please choose maritial status</item>
+        <item>Married</item>
+        <item>Single</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+    </string-array>
+
+    <string-array name="spinner_bank_name">
+        <item>Please choose bank names</item>
+        <item>CIMB BANK</item>
+        <item>MAYBANK</item>
+        <item>RHB BANK</item>
+        <item>BANK ISLAM</item>
+        <item>BANK RAKYAT</item>
+        <item>HONG LEONG BANK</item>
+    </string-array>
+
+</resources>

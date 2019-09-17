@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorJR">#3EB978</color>
+    <color name="colorJRClick">#61BB8B</color>
+    <color name="colorFont">#2C2C2C</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteGray">#EEEEEE</color>
+
+   <!-- FOR INTRODUCTION-->
+    <array name="array_active">
+        <item>@color/colorJR</item>
+        <item>@color/colorJR</item>
+        <item>@color/colorJR</item>
+        <item>@color/colorJR</item>
+    </array>
+
+    <color name="dot_inactive_06">#e0e0e0</color>
+    <color name="dot_inactive_07">#e0e0e0</color>
+    <color name="dot_inactive_08">#e0e0e0</color>
+    <color name="dot_inactive_09">#e0e0e0</color>
+    <color name="scanner_line">#000000</color>
+    <array name="array_inactive">
+        <item>@color/dot_inactive_06</item>
+        <item>@color/dot_inactive_07</item>
+        <item>@color/dot_inactive_08</item>
+        <item>@color/dot_inactive_09</item>
+    </array>
+
+    <!-- END FOR INTRODUCTION-->
+
+</resources>
